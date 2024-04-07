@@ -13,7 +13,7 @@
 💻 Soy un Desarrollador de Software e Informático Forense Digital Autodidacta
 🌟 Tengo un gran interés en la ciencia forense y desarrollo de aplicaciones web
 👯 Trabajo de forma profunda nuevas tecnologías sobre software y hardware
-📚 Estudiando DFIR (Digital Forensics Incident Response)
+📚 Estudiando DFIR
 👾 Conocimientos sobre técnicas de malware y métodos anti-forenses
 </pre>
 
