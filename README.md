@@ -11,7 +11,7 @@
 <h1 align="center">🚀 Acerca de mí</h1>
 <pre>
 💻 Soy un Desarrollador de Software e Informático Forense Digital Autodidacta
-🌟 Tengo un gran interés en la ciencia forense y desarrollo de aplicaciones web
+🌟 Tengo un gran interés en la ciencia forense digital y desarrollo de aplicaciones web
 👯 Trabajo de forma profunda nuevas tecnologías sobre software y hardware
 📚 Estudiando DFIR
 👾 Conocimientos sobre técnicas de malware y métodos anti-forenses
