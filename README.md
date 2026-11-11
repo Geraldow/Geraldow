@@ -42,6 +42,6 @@ I'm a software developer passionate about building real-value systems — from b
 
 <div align="center">
 
-*Lima, Perú 🇵🇪 — Open to opportunities*
+*Lima, Perú 🇵🇪*
 
 </div>
